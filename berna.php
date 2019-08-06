@@ -1,16 +1,5 @@
 <?php
 require_once "config.php";
-//DDDDDDDDDDDD
-//DDDDDDDDDDDD
-//DDDDDDDDDDDD
-//DDDDDDDDDDDD
-//DDDDDDDDDDDD
-//DDDDDDDDDDDD
-//DDDDDDDDDDDD
-//DDDDDDDDDDDD
-//DDDDDDDDDDDD
-//DDDDDDDDDDDD
-//DDDDDDDDDDDD
  
 $name = $address = $salary = "";
 $name_err = $address_err = $salary_err = "";
